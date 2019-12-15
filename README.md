@@ -4,7 +4,3 @@
 **Instructor:** Prof. Sonia Baloni Ray
 
 
-### About
-
-Used PsychoPy to create an experiment to observe the effect of memory load on selective attention.
-
